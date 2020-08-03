@@ -2,7 +2,7 @@ This brower requires some python modules and a database on your system to run as
 modules mentioned here is cross-platform which means this code can on Windows , Mac OS , Linux and Android.
 Modules are :
   1. PyQt5
-  2. QWebEngine
+  2. PyQtWebEngine
   
 Software to create MySQL database on your system:
   -> XAMPP
