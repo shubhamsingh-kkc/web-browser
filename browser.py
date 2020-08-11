@@ -67,7 +67,7 @@ class LoginWindow(QWidget):
         self.grpbox2.setLayout(hbox2)
         self.grpbox3.setLayout(hbox3)
 
-        # connecting bottons to methods to make them fucntional
+        # connecting bottons to methods to make them functional
         btn1.clicked.connect(self.userLogin)
         btn2.clicked.connect(self.userRegistration)
         btn3.clicked.connect(self.clear)
