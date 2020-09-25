@@ -1,5 +1,5 @@
 This brower requires some python modules and a database on your system to run as expected ,
-modules mentioned here is cross-platform which means this code can on Windows , Mac OS , Linux and Android.
+modules mentioned here is cross-platform which means this code can run on Windows , Mac OS , Linux and Android.
 Modules are :
   1. PyQt5
   2. PyQtWebEngine
