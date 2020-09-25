@@ -3,6 +3,7 @@ modules mentioned here is cross-platform which means this code can run on Window
 Modules are :
   1. PyQt5
   2. PyQtWebEngine
+  3. mysql_connector_python
   
 Software to create MySQL database on your system:
   -> XAMPP
